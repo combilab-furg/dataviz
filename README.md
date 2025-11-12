@@ -1,7 +1,14 @@
 # 📊 DataViz Re(cursos) - Minicurso ERAMIA 2025
 
 > *Recursos e materiais para visualização de dados com R e ggplot2*
+<div align="center">
 
+![QR Code](https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=https://github.com/combilab-furg/dataviz)
+
+**Scan to visit repository**  
+[https://github.com/combilab-furg/dataviz](https://github.com/combilab-furg/dataviz)
+
+</div>
 ---
 
 ## 🎓 Curso
